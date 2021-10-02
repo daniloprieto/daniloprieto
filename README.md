@@ -32,6 +32,9 @@
 </a>
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniloprieto)](https://github.com/daniloprieto/github-readme-stats)
+
+
 
 ### Contact me danilo.s.prieto@gmail.com
 
