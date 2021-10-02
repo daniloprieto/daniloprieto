@@ -1,6 +1,6 @@
 ## Hi!, I'm Danilo Prieto
 
-### My friends call me Dano. I like web development in various programming languages, but my favorite is Javascript and its frameworks
+### My friends call me Dano. I like web development in various programming <br> languages, but my favorite is Javascript and its frameworks
 **These are some languages and technologies that I have worked with**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
