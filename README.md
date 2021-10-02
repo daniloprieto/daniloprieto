@@ -32,13 +32,6 @@
 </a>
 </p>
 
-<a href="https://github.com/daniloprieto/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloprieto&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/daniloprieto/benvida-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniloprieto&repo=benvida-frontend" />
-</a>
-
 
 ### Contact me danilo.s.prieto@gmail.com
 
