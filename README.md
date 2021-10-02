@@ -27,7 +27,7 @@
 
 <p>
 <a href="https://github.com/daniloprieto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniloprieto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniloprieto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniloprieto&layout=compact&langs_count=50&count_private=true&theme=algolia"/>
 </a>
 </p>
