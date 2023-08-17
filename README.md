@@ -1,4 +1,4 @@
-## Hi!, I'm Dano Prieto
+## Hi!, I'm Danilo Prieto
 
 ### My friends call me Dano. I like web development in various programming <br> languages, but my favorite is Javascript and its frameworks
 **These are some languages and technologies that I have worked with**
